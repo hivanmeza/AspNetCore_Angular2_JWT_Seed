@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KDCLLC.Web", "src\KDCLLC.Web.csproj", "{85592670-A6CF-4BE9-A540-61BC8D0BAC6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KDCLLC.Web", "src\KDCLLC.Web\KDCLLC.Web.csproj", "{85592670-A6CF-4BE9-A540-61BC8D0BAC6A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F6482F2A-9E75-413C-91EE-BC18828DB2E6}"
 	ProjectSection(SolutionItems) = preProject
